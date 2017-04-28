@@ -1581,7 +1581,7 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
-.container {
+..container-fluid {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -4835,7 +4835,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   float: left;
 }
 .pager .disabled > a,
-.pager .disabled > a:hover,
+.pager .disabled > a:hover,y
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #777;
