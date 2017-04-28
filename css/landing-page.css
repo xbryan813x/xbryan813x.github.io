@@ -195,3 +195,7 @@ p.copyright {
 /*.workExpPic {
   text-align: center;
 }*/
+
+.modal-content {
+  height: 800px;
+}
