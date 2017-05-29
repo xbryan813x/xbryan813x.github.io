@@ -35,7 +35,7 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/backgroundImageCity.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -94,11 +94,13 @@ h6 {
 
 .content-section-a {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    color: white;
+    background-color: #303030;
 }
 
 .content-section-b {
     padding: 50px 0;
+
     border-top: 1px solid #e7e7e7;
     border-bottom: 1px solid #e7e7e7;
 }
@@ -115,9 +117,9 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: #f8f8f8;
-    background: url(../img/banner-bg.jpg) no-repeat center center;
-    background-size: cover;
+    color: #303030;
+    background-color: white
+
 }
 
 .banner h2 {
@@ -198,4 +200,16 @@ p.copyright {
 
 .modal-content {
   height: 800px;
+}
+
+.fLeft {
+  float: right;
+}
+
+.fRight {
+  float: left;
+}
+
+.shadowed {
+  box-shadow: 10px 10px 5px #ccc;
 }
